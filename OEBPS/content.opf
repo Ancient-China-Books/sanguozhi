@@ -1,13 +1,15 @@
 <?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uiGFaPxaauF8Bgs832uk8z7">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>三國志-漢川草廬</dc:title>
+    <dc:title>三國志</dc:title>
     <dc:creator opf:role="aut" opf:file-as="陳壽 &amp; 裴松之">陳壽</dc:creator>
     <dc:creator opf:role="aut">裴松之</dc:creator>
     <dc:date>2010-10-31T16:00:00+00:00</dc:date>
     <dc:publisher>台灣商務印書館</dc:publisher>
     <dc:identifier id="uiGFaPxaauF8Bgs832uk8z7" opf:scheme="uuid">uiGFaPxaauF8Bgs832uk8z7</dc:identifier>
-    <dc:contributor opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;本電子書&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;基於「&lt;/span&gt;&lt;a href="http://www.sidneyluo.net/a/a04/a04.htm"&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #2980b9; background-color: #ffffff"&gt;漢川草廬&lt;/span&gt;&lt;/a&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;」重製電子版。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:subject>陈寿</dc:subject>
     <dc:subject>百衲本</dc:subject>
     <dc:subject>歷史</dc:subject>
@@ -19,10 +21,10 @@
     <dc:subject>中国历史</dc:subject>
     <dc:subject>三國</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">02bbd6f8-8dfb-4b0a-9816-bbf3f824877b</dc:identifier>
+    <dc:identifier opf:scheme="calibre">172d470f-ea63-415e-b28b-ed581a59ba7d</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">6403804</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9789570525366</dc:identifier>
-    <meta name="calibre:title_sort" content="三國志-漢川草廬"/>
+    <meta name="calibre:title_sort" content="三國志"/>
     <meta name="calibre:author_link_map" content="{&quot;陳壽&quot;: &quot;&quot;, &quot;裴松之&quot;: &quot;&quot;}"/>
     <meta name="calibre:series" content="百衲本二十四史"/>
     <meta name="calibre:series_index" content="1.0"/>
