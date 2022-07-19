@@ -32,6 +32,7 @@
   </metadata>
   <manifest>
     <item id="a04.htm" href="Text/a04.htm" media-type="application/xhtml+xml"/>
+    <item id="x000.htm" href="Text/000.htm" media-type="application/xhtml+xml"/>
     <item id="x001.htm" href="Text/001.htm" media-type="application/xhtml+xml"/>
     <item id="x002.htm" href="Text/002.htm" media-type="application/xhtml+xml"/>
     <item id="x003.htm" href="Text/003.htm" media-type="application/xhtml+xml"/>
@@ -117,8 +118,8 @@
     <item id="id" href="NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
-    <itemref idref="id13"/>
     <itemref idref="a04.htm"/>
+    <itemref idref="x000.htm"/>
     <itemref idref="x001.htm"/>
     <itemref idref="x002.htm"/>
     <itemref idref="x003.htm"/>
