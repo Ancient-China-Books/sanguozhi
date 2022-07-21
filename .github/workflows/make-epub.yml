@@ -16,7 +16,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Build
-        run: zip -r sanguozhi.epub META-INF mimetype OEBPS
+        run: |
+          zip -r sanguozhi.epub META-INF mimetype OEBPS
+          sed -i 's/horizontal-tb/vertical-rl/g' OEBPS/Styles/*.css
+          sed -i 's/page-progression-direction="ltr"/page-progression-direction="rtl"/g' OEBPS/content.opf
+          zip -r sanguozhi-vst.epub META-INF mimetype OEBPS
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
@@ -32,3 +36,10 @@ jobs:
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
           args: copyto sanguozhi.epub gdrive:/Ancient-China-Books/三國志.epub
+      - name: Sync vst to Google drive
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto sanguozhi-vst.epub gdrive:/Ancient-China-Books/三國志-豎排.epub
