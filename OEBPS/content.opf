@@ -7,7 +7,7 @@
     <dc:date>2010-10-31T16:00:00+00:00</dc:date>
     <dc:publisher>台灣商務印書館</dc:publisher>
     <dc:identifier id="uiGFaPxaauF8Bgs832uk8z7" opf:scheme="uuid">uiGFaPxaauF8Bgs832uk8z7</dc:identifier>
-    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:contributor opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:description>&lt;div&gt;
 &lt;p&gt;本電子書&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;基於「&lt;/span&gt;&lt;a href="http://www.sidneyluo.net/a/a04/a04.htm"&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #2980b9; background-color: #ffffff"&gt;漢川草廬&lt;/span&gt;&lt;/a&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;」重製電子版。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:subject>陈寿</dc:subject>
@@ -21,14 +21,14 @@
     <dc:subject>中国历史</dc:subject>
     <dc:subject>三國</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">172d470f-ea63-415e-b28b-ed581a59ba7d</dc:identifier>
+    <dc:identifier opf:scheme="calibre">d4d2cc88-cb9c-4455-86a4-0fee494f670a</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">6403804</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9789570525366</dc:identifier>
     <meta name="calibre:title_sort" content="三國志"/>
     <meta name="calibre:author_link_map" content="{&quot;陳壽&quot;: &quot;&quot;, &quot;裴松之&quot;: &quot;&quot;}"/>
     <meta name="calibre:series" content="百衲本二十四史"/>
     <meta name="calibre:series_index" content="1.0"/>
-    <meta name="cover" content="cover-1"/>
+    <meta name="cover" content="cover"/>
   </metadata>
   <manifest>
     <item id="a04.htm" href="Text/a04.htm" media-type="application/xhtml+xml"/>
@@ -113,7 +113,6 @@
     <item id="id10" href="Images/a0401.gif" media-type="image/gif"/>
     <item id="id11" href="Images/a0402.gif" media-type="image/gif"/>
     <item id="id12" href="Images/a0403.gif" media-type="image/gif"/>
-    <item href="OEBPS/cover-1.jpg" id="cover-1" media-type="image/jpeg"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
     <item id="id" href="NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
   </manifest>
