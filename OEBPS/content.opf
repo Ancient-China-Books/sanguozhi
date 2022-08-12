@@ -1,12 +1,12 @@
-<?xml version="1.0"  encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uiGFaPxaauF8Bgs832uk8z7">
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="u5F68tel5oGbv3qd7ps88lE">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>三國志</dc:title>
     <dc:creator opf:role="aut" opf:file-as="陳壽 &amp; 裴松之">陳壽</dc:creator>
     <dc:creator opf:role="aut">裴松之</dc:creator>
     <dc:date>2010-10-31T16:00:00+00:00</dc:date>
     <dc:publisher>台灣商務印書館</dc:publisher>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">d71184b7-fcab-48d9-aab2-06eaca158473</dc:identifier>
+    <dc:identifier id="u5F68tel5oGbv3qd7ps88lE" opf:scheme="uuid">u5F68tel5oGbv3qd7ps88lE</dc:identifier>
     <dc:contributor opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:description>&lt;div&gt;
 &lt;p&gt;本電子書&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;基於「&lt;/span&gt;&lt;a href="http://www.sidneyluo.net/a/a04/a04.htm"&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #2980b9; background-color: #ffffff"&gt;漢川草廬&lt;/span&gt;&lt;/a&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;」重製電子版。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -21,7 +21,7 @@
     <dc:subject>中国历史</dc:subject>
     <dc:subject>三國</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">d4d2cc88-cb9c-4455-86a4-0fee494f670a</dc:identifier>
+    <dc:identifier opf:scheme="calibre">340a89f5-d856-4806-ae93-77741f295125</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">6403804</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9789570525366</dc:identifier>
     <meta name="calibre:title_sort" content="三國志"/>
