@@ -380,7 +380,7 @@ p:before{
 p:hover .gg-link {
   visibility: visible;
 }
-/*.shu-ming {
-  text-decoration: currentColor wavy underline;
+.shu-ming {
+  text-decoration: #777 wavy underline;
   text-decoration-thickness: 1px;
-}*/
+}
